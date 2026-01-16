@@ -33,7 +33,14 @@ printf("Case %d: No\n",i);
     
     
     
-    
+  // contest vu -2
+    int n,total,first = 4,second;
+    scanf("%d",&n);
+
+    second = (n-1)*3;
+    total = first + second;
+
+    printf("%d\n",total);  
     
     
 
@@ -42,4 +49,5 @@ printf("Case %d: No\n",i);
 
     return 0;
 }
+
 
