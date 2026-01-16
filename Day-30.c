@@ -2,6 +2,9 @@
 
 int main() {
 
+   
+    // contest vu -1
+    
     int t,n,sum,rem,tem;
     scanf("%d", &t);
 
@@ -39,3 +42,4 @@ printf("Case %d: No\n",i);
 
     return 0;
 }
+
